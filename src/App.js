@@ -25,7 +25,7 @@ function App() {
    else if(number<0 || number>100){
       console.log("wrong"+number)
       setnumber('');
-      document.querySelector("#showresult").innerHTML="<h4>please select number between 1 to 100<h4/>"
+      document.querySelector("#showresult").innerHTML="<h4>Limit 1 to 100<h4/>"
     }
     
    else if(randomnum==number){
