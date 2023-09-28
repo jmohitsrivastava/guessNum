@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/numberGuesser/static/css/main.5303bd7f.css",
+    "main.js": "/numberGuesser/static/js/main.61c5369e.js",
+    "static/js/787.2cfe6efe.chunk.js": "/numberGuesser/static/js/787.2cfe6efe.chunk.js",
+    "index.html": "/numberGuesser/index.html",
+    "main.5303bd7f.css.map": "/numberGuesser/static/css/main.5303bd7f.css.map",
+    "main.61c5369e.js.map": "/numberGuesser/static/js/main.61c5369e.js.map",
+    "787.2cfe6efe.chunk.js.map": "/numberGuesser/static/js/787.2cfe6efe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5303bd7f.css",
+    "static/js/main.61c5369e.js"
+  ]
+}
