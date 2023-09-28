@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/numberGuesser/static/css/main.5303bd7f.css",
-    "main.js": "/numberGuesser/static/js/main.61c5369e.js",
-    "static/js/787.2cfe6efe.chunk.js": "/numberGuesser/static/js/787.2cfe6efe.chunk.js",
-    "index.html": "/numberGuesser/index.html",
-    "main.5303bd7f.css.map": "/numberGuesser/static/css/main.5303bd7f.css.map",
-    "main.61c5369e.js.map": "/numberGuesser/static/js/main.61c5369e.js.map",
-    "787.2cfe6efe.chunk.js.map": "/numberGuesser/static/js/787.2cfe6efe.chunk.js.map"
+    "main.css": "/guessNum/static/css/main.5303bd7f.css",
+    "main.js": "/guessNum/static/js/main.0dbf6df3.js",
+    "static/js/787.2cfe6efe.chunk.js": "/guessNum/static/js/787.2cfe6efe.chunk.js",
+    "index.html": "/guessNum/index.html",
+    "main.5303bd7f.css.map": "/guessNum/static/css/main.5303bd7f.css.map",
+    "main.0dbf6df3.js.map": "/guessNum/static/js/main.0dbf6df3.js.map",
+    "787.2cfe6efe.chunk.js.map": "/guessNum/static/js/787.2cfe6efe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5303bd7f.css",
-    "static/js/main.61c5369e.js"
+    "static/js/main.0dbf6df3.js"
   ]
 }
